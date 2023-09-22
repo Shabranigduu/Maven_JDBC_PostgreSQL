@@ -1,7 +1,7 @@
-package dao;
+package JDBC.dao;
 
-import entity.TicketEntity;
-import util.ConnectionManager;
+import JDBC.dao.entity.TicketEntity;
+import JDBC.dao.util.ConnectionManager;
 
 import java.math.BigDecimal;
 import java.sql.*;

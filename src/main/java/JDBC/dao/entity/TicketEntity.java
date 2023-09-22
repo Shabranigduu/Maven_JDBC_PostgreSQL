@@ -1,4 +1,4 @@
-package entity;
+package JDBC.dao.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

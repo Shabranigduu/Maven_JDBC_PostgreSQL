@@ -1,5 +1,7 @@
-import dao.TicketDao;
-import entity.TicketEntity;
+package JDBC.dao;
+
+import JDBC.dao.TicketDao;
+import JDBC.dao.entity.TicketEntity;
 
 import java.math.BigDecimal;
 import java.sql.SQLException;

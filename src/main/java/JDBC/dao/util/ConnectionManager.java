@@ -1,4 +1,4 @@
-package util;
+package JDBC.dao.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

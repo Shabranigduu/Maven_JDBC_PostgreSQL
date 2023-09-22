@@ -1,4 +1,4 @@
-package util;
+package JDBC.dao.util;
 
 import java.io.IOException;
 import java.io.InputStream;
